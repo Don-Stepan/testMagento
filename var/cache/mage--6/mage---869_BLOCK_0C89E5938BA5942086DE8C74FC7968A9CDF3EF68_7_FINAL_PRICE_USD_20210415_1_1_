@@ -1,0 +1,13 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1618496622;s:6:"expire";i:1618583022;s:4:"tags";s:45:"869_BLOCK_HTML,869_CAT_P_7,869_CAT_P,869_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:21:{s:44:"YKgxaz1Pg28U7rdPO8Oxzq+VMX9XFE2BOGtmB/XxprA=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"3SkIXWkMd8LBhVaiOBcBI8RCPMcP/6hj43L7vKMn6Y8=";s:6:"sha256";s:44:"q+ARWmGKcqVkxaR8802U0WHlWw7gF2/UqltoGjA7tQs=";s:6:"sha256";s:44:"haHjRLoVvfRN4ZcfmhqMUNz5TNa7WFJ9qUP/o6hz9tQ=";s:6:"sha256";s:44:"DrxCm0k2qy01y8fut+u6QvkHBXse2Nb1JSEMecvAJyw=";s:6:"sha256";s:44:"Hqq+8Pnhy6gtro2231ypg0Kyy02JW4eRf1+4TR8IDtA=";s:6:"sha256";s:44:"8W4LOYGF3a/jNiqZVFLaLqEmQ0UnKcNWWlGuhWcSBs0=";s:6:"sha256";s:44:"JH0opr1RNv4r7gMrAs31c0XRMCVTA1Rkm4ase4mv4vg=";s:6:"sha256";s:44:"fIa+Qjtx+V85Zx3jLYLQCFXyqOCHDv1Co8mPtOI01zc=";s:6:"sha256";s:44:"/gQrbIlAeCRe7Hgpqzw0jwp0SK3lWddDi7lvRzXrykM=";s:6:"sha256";s:44:"5uBfcJFgw4knBGNt/2dewVn5DvhwKw481enbqR8ycBc=";s:6:"sha256";s:44:"d0lMAcnGb04UkEuiThUW1EWLnLJRtC7x74rCaRoIJT0=";s:6:"sha256";s:44:"sAZmUed79Y6Dz8KI6P6U3CFaY+rDW0sb3VX1py+MKJw=";s:6:"sha256";s:44:"lcKZZMRWN6cY7soLx+lVgr0eMQYQCLGRlHZfXcJVhDE=";s:6:"sha256";s:44:"uYaE7USxQZvq5OEHOl/ENQ3Jh9xbIQv7gtwaRshxPH4=";s:6:"sha256";s:44:"bU0/TNltGlEkIV7fRM6vTjd9vtSp3hSnN11/qxwZ+UQ=";s:6:"sha256";s:44:"fh7bSA6dTk9lyXvrRia3hvRpJJRDWvhE/EykfHwNoUc=";s:6:"sha256";s:44:"2U0lSCDWMtO98e7JJG6bnN4NP3x1pxpITtwtvxVI0Dg=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:7:{s:44:"nq3vYwIgA+YqiPyqLF1nXj8or9Zqr90owk5QqVUtc0I=";s:6:"sha256";s:44:"5NJ4ZWLk/G1Icc6KSdIDhg62hOMrOBfucnMK1fIzBzw=";s:6:"sha256";s:44:"TbDW+cJ7BNNiu0WxiNfj6ZVkxjh4N5sJOFL1crqZF9M=";s:6:"sha256";s:44:"7n+sNpbcjCKqTCvc7uHfIMSjCAa/s4SEC6FGoziAqP8=";s:6:"sha256";s:44:"Guv0f7J2D2yM3h87rFSSWzTksaiZrzmy01VwV8HgRSI=";s:6:"sha256";s:44:"hOvTC8SG6nzNTih31IGLXbeGIc7AQvqO/hS0hujs1n0=";s:6:"sha256";s:44:"4caIL9hFdKQouYNJ7IFzVUPAtvAs51fjQnzuWq9NHQI=";s:6:"sha256";}}}s:4:"html";s:407:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="7" data-price-box="product-id-7">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="product-price-7"                data-price-amount="74"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$74.00</span></span>
+        </span>
+
+</div>";}

@@ -1,0 +1,1 @@
+/var/www/html/newMagento/lib/web/mage/ie-class-fixer.js

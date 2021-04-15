@@ -1,0 +1,59 @@
+<div class="myRequestBottomBlock" data-mage-init='{"myFormModal": {}}' >
+  
+  <input class="myRequestBottom" type="button" value="Request price">
+
+  <div class="popup">
+    <form>
+      <label for="fname">*First name:</label><br>
+      <input type="text" id="fname" name="fname"><br>
+
+      <label for="lname">Last name:</label><br>
+      <input type="text" id="lname" name="lname">
+
+      <label for="emaill">*Enter your email:</label>
+      <input type="email" id="emaill" name="emaill" autocomplete="email" value="">
+
+      <label for="productName">*Product name:</label>
+      <input type="text" id="productName" name="productName" value="<?= $block->getProduct()->getName(); ?>">
+
+      <label for="productSku">*SKU:</label>
+      <input type="text" id="productSku" name="productSku" value="<?= $block->getProduct()->getSku(); ?>">
+
+      <input type="button" value="Submit" />
+    </form>
+  </div>
+
+</div>
+
+<script>
+    require(
+        [
+            'jquery',
+            'Magento_Ui/js/modal/modal'
+        ],
+        function(
+            $,
+            modal
+        ) {
+            var options = {
+                type: 'popup',
+                responsive: true,
+                innerScroll: true,
+                title: '<?= $block->getProduct()->getName(); ?>',
+                buttons: [{
+                    text: $.mage.__('Continue'),
+                    class: '',
+                    click: function () {
+                        this.closeModal();
+                    }
+                }]
+            };
+
+            var popup = modal(options, $('.popup'));
+            $('.myRequestBottom').click(function(){
+              $('.popup').modal('openModal');
+            })
+        }
+    );  
+</script>
+
